@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** <Benson Kung>
-- **CCID:** <pinjui1>
+- **Full Name:** Benson Kung
+- **CCID:** pinjui1
 
 ## References and Resources
 
